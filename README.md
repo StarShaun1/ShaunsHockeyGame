@@ -2,4 +2,4 @@
 
 A simple python game that runs in cmd.
 
-#THIS GAME NEEDS PYTHON INSTALLED!
+THIS GAME NEEDS PYTHON INSTALLED!
